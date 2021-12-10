@@ -1,0 +1,15 @@
+h1 {
+    text-align: start;
+    border: solid;
+    border-color: black;
+    border-radius: auto;
+    font-family: sans-serif, serif;
+    font-size: 40px;
+    font-weight: 100;
+    width: max-content;
+    height: max-content;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
